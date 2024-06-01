@@ -1,0 +1,4 @@
+# ninja log v6
+32	1491	7389578876895506	CMakeFiles/task4_cpp.dir/src/students_list/StudentList.cpp.obj	6245b4a637e0b9f7
+24	1494	7389578876816039	CMakeFiles/task4_cpp.dir/src/student/Student.cpp.obj	ec369c95cad5f1cf
+60	1494	7389578877185498	CMakeFiles/task4_cpp.dir/src/students_list/StudentListNode.cpp.obj	5ef31ce60ef76600

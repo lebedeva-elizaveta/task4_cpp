@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "task4_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "task4_cpp::@145eef247bfb46b6828c",
+					"jsonFile" : "target-task4_cpp-Debug-4aaa06918ed4e42c1f38.json",
+					"name" : "task4_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "task4_cpp_autogen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-task4_cpp_autogen-Debug-da32fdee71e72b032902.json",
+					"name" : "task4_cpp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "task4_cpp_autogen_timestamp_deps::@145eef247bfb46b6828c",
+					"jsonFile" : "target-task4_cpp_autogen_timestamp_deps-Debug-e85c097794a9b235f881.json",
+					"name" : "task4_cpp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug",
+		"source" : "C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

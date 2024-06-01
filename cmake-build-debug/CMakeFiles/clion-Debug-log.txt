@@ -1,0 +1,23 @@
+"D:\CLion 2024.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2024.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Mi NoteBook Pro\CLionProjects\task4_cpp" -B "C:\Users\Mi NoteBook Pro\CLionProjects\task4_cpp\cmake-build-debug"
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+CMake Error at src/CMakeLists.txt:46 (add_custom_command):
+  No TARGET 'task4_7' has been created in this directory.
+
+
+CMake Error at src/CMakeLists.txt:49 (add_custom_command):
+  No TARGET 'task4_7' has been created in this directory.
+
+
+CMake Error at src/CMakeLists.txt:55 (add_custom_command):
+  No TARGET 'task4_7' has been created in this directory.
+
+
+CMake Error at src/CMakeLists.txt:55 (add_custom_command):
+  No TARGET 'task4_7' has been created in this directory.
+
+
+CMake Error at src/CMakeLists.txt:55 (add_custom_command):
+  No TARGET 'task4_7' has been created in this directory.
+
+
+-- Configuring incomplete, errors occurred!

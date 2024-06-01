@@ -1,0 +1,7 @@
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/src/CMakeFiles/task4_cpp.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/src/CMakeFiles/task4_cpp_autogen_timestamp_deps.dir
+C:/Users/Mi NoteBook Pro/CLionProjects/task4_cpp/cmake-build-debug/src/CMakeFiles/task4_cpp_autogen.dir
